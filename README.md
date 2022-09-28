@@ -1,18 +1,18 @@
-Hello! call me **GeRico**, just a wanderer for computing stuff, 
+Hello! <br> call me **GeRico**, just a wanderer for computing stuff, 
 
 Things I love to learn
 
-* Linux
-* [Suckless](suckless.org) Utility
-* Devops
-* Reverse Engineering
-* [Nvim](https://github.com/gricowijaya/nvimrc)
-* [Node JS](https://nodejs.dev/learn/)
+* [](https://endeavouros.com/)
+* [](https://hub.docker.com/)
+* [](https://github.com/gricowijaya/nvimrc) 
+* [](https://nodejs.dev/learn/) 
+* [](https://github.com/gricowijaya/go-exercises/wiki) 
+* 
+* [Suckless](suckless.org)
 * [Node Red](https://nodered.org/)
-* [Go](https://github.com/gricowijaya/go-exercises/wiki)
 
 
 Big thanks to all my friends to help me grow in this vast world of technology.
 
-Stay Awesome
+Stay Awesome <br>
 Have a great day!
