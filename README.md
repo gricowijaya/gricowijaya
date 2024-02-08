@@ -1,18 +1,7 @@
-Hello! <br> call me **GeRico**, just a wanderer for computing stuff, 
+Hi There! 
 
-Things I love to learn
+Call me GeRico or Rico. <br> I am a DevOps Engineer, Cloud Engineer, <br> Web Developer (mostly backend but I do frontend too), <br> Linux and Vim enthusiast! 
 
-* [Linux](https://endeavouros.com/)
-* [Docker](https://hub.docker.com/)
-* [Vim/Neovim](https://github.com/gricowijaya/nvimrc) 
-* [Node JS](https://nodejs.dev/learn/) 
-* [Go](https://github.com/gricowijaya/go-exercises/wiki) 
-* [C](https://devdocs.io/c/)
-* [Suckless](suckless.org)
-* [Node Red](https://nodered.org/)
+More info about me at www.gricowijaya.xyz (don't worry this is a legit site)
 
-
-Big thanks to all my friends to help me grow in this vast world of technology.
-
-Stay Awesome <br>
-Have a great day!
+Thank You!
